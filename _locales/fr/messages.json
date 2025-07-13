@@ -1,0 +1,137 @@
+{
+   "accessibility_text": {
+      "message": "Activez les informations textuelles en plus de la couleur de l'icône du niveau de sécurité pour tout problème d'accessibilité."
+   },
+   "accessibility_title": {
+      "message": "Accessibilité"
+   },
+   "are_you_owner_website": {
+      "message": "Êtes-vous le propriétaire de"
+   },
+   "button_back": {
+      "message": "Retour"
+   },
+   "button_view_details": {
+      "message": "Voir le détail"
+   },
+   "cache_clear_button": {
+      "message": "Effacer"
+   },
+   "cache_clear_text": {
+      "message": "Cliquez sur ce bouton pour supprimer le cache local de l'extension."
+   },
+   "cache_clear_title": {
+      "message": "Vider le Cache local"
+   },
+   "cannot_fetch_from_ip": {
+      "message": "Cette extension ne gère pas les adresses IP."
+   },
+   "cannot_fetch_non_http": {
+      "message": "Requête d'une URL non-HTTP impossible : "
+   },
+   "cannot_parse_tab_url": {
+      "message": "Impossible de trouver l'URL de l'onglet en cours."
+   },
+   "change_language_title": {
+      "message": "Changer la langue"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "extension_description": {
+      "message": "Statut de la validation du propriétaire du site Web et le score qui en découle par le CCB."
+   },
+   "extension_name": {
+      "message": "Safeonweb Extension de Navigateur"
+   },
+   "fetching_data": {
+      "message": "Analyse du site-web en cours..."
+   },
+   "footer_copyright": {
+      "message": "Extension Safeonweb par"
+   },
+   "footer_link_title": {
+      "message": "Le Centre pour la Cybersécurité Belgique (CCB)"
+   },
+   "improve_score_faq_link_url": {
+      "message": "https://atwork.safeonweb.be/fr/protect-my-organisation/extension-de-navigateur-safeonweb#:~:text=Comment%20am%C3%A9liorer%20le%20score%20de%20mon%20propre%20site%20web%20%3F"
+   },
+   "improve_score_faq_url": {
+      "message": "https://atwork.safeonweb.be/fr/protect-my-organisation/extension-de-navigateur-safeonweb#144-answer:~:text=Comment%20améliorer%20le%20score%20de%20mon%20propre%20site%20web%20%3F"
+   },
+   "improve_this_score": {
+      "message": "Comment le propriétaire du site Web peut-il améliorer ce score ?"
+   },
+   "in_belgium": {
+      "message": "en Belgique ?"
+   },
+   "link_report_malicious_content": {
+      "message": "Signaler un site web suspect à : suspect@safeonweb.be"
+   },
+   "link_report_url": {
+      "message": "mailto:suspect@safeonweb.be?subject=Suspicious%20website%20reporting&body=J%27aimerais%20signaler%20le%20domaine%20"
+   },
+   "link_validate_your_domain": {
+      "message": "Enregistrez votre domaine"
+   },
+   "logo_img_alt": {
+      "message": "Safeonweb.be"
+   },
+   "logo_link_url": {
+      "message": "https://www.safeonweb.be/fr/safeonweb-browser-extension"
+   },
+   "main_error": {
+      "message": "Désolé, une erreur est survenue..."
+   },
+   "main_error_reason": {
+      "message": "Vérifiez que vous êtes sur un site web valide et ressayez."
+   },
+   "main_title_1": {
+      "message": "Safe"
+   },
+   "main_title_2": {
+      "message": "on"
+   },
+   "main_title_3": {
+      "message": "web"
+   },
+   "main_title_4": {
+      "message": ".be"
+   },
+   "maintenance_text": {
+      "message": "Nous travaillons activement sur le serveur et le remettrons en service dès que possible. Merci de revenir plus tard."
+   },
+   "maintenance_title": {
+      "message": "Notre serveur est en maintenance..."
+   },
+   "more_info": {
+      "message": "Plus d'infos"
+   },
+   "more_info_link_url": {
+      "message": "https://www.safeonweb.be/fr/safeonweb-browser-extension"
+   },
+   "no_host_info_description": {
+      "message": "Cela peut être dû au fait qu'il s'agit d'un intranet."
+   },
+   "no_host_info_title": {
+      "message": "Nous n'avons pu obtenir aucune information sur le domaine."
+   },
+   "register_my_organisation_link_url": {
+      "message": "https://atwork.safeonweb.be/fr/register-my-organisation#:~:text=Premier%20enregistrement"
+   },
+   "text_feedback_label": {
+      "message": "Retours textuels dans l'icône"
+   },
+   "warning_description": {
+      "message": "L'objectif de l'Extension de Navigateur SafeonWeb est uniquement de fournir des informations concernant l'identité de l'organisation et / ou du propriétaire du site Web, pas son contenu. Même si le site Internet bénéficie d'un indice de confiance élevé, un site Web peut toujours être piraté et contenir des logiciels malveillants. Soyez conscient de ce que vous partagez et signez. Ne signez jamais une transaction (via ITSME® ou votre lecteur de carte) à la demande d'une personne se faisant passer pour un « helpdesk » ou un « employé de la banque »."
+   },
+   "warning_title": {
+      "message": "Clause de non-responsabilité:"
+   },
+   "why_zero_description": {
+      "message": "Même si des éléments positifs ont été signalés, le score total est fixé à 0 parce que des liens malveillants ont été signalés sur ce site web."
+   },
+   "why_zero_tite": {
+      "message": "Pourquoi ce score ?"
+   }
+}

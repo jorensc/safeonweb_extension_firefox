@@ -1,0 +1,137 @@
+{
+   "accessibility_text": {
+      "message": "Schakel tekstinformatie in naast de kleur van het beveiligingsniveaupictogram voor eventuele toegankelijkheidsproblemen."
+   },
+   "accessibility_title": {
+      "message": "Toegankelijkheid"
+   },
+   "are_you_owner_website": {
+      "message": "Ben je de eigenaar van"
+   },
+   "button_back": {
+      "message": "Terug"
+   },
+   "button_view_details": {
+      "message": "Details bekijken"
+   },
+   "cache_clear_button": {
+      "message": "Wissen"
+   },
+   "cache_clear_text": {
+      "message": "Klik op deze knop om de lokale cache van de extensie te verwijderen."
+   },
+   "cache_clear_title": {
+      "message": "Leeg lokale cache"
+   },
+   "cannot_fetch_from_ip": {
+      "message": "Deze extensie verwerkt geen IP-adressen."
+   },
+   "cannot_fetch_non_http": {
+      "message": "Kan niet ophalen van niet-HTTP-URL : "
+   },
+   "cannot_parse_tab_url": {
+      "message": "Kan de URL van het huidige tabblad niet vinden."
+   },
+   "change_language_title": {
+      "message": "Taal wijzigen"
+   },
+   "close": {
+      "message": "Sluiten"
+   },
+   "extension_description": {
+      "message": "Status van validatie van de website-eigenaar en resulterende score door het CCB."
+   },
+   "extension_name": {
+      "message": "Safeonweb-browserextensie"
+   },
+   "fetching_data": {
+      "message": "De website analyseren..."
+   },
+   "footer_copyright": {
+      "message": "Safeonweb extensie door"
+   },
+   "footer_link_title": {
+      "message": "Het Centrum voor Cybersecurity België (CCB)"
+   },
+   "improve_score_faq_link_url": {
+      "message": "https://atwork.safeonweb.be/nl/protect-my-organisation/safeonweb-browser-extensie#:~:text=Hoe%20kan%20ik%20de%20score%20van%20mijn%20eigen%20website%20verbeteren%3F"
+   },
+   "improve_score_faq_url": {
+      "message": "https://atwork.safeonweb.be/nl/protect-my-organisation/safeonweb-browser-extensie#144-answer:~:text=Hoe%20kan%20ik%20de%20score%20van%20mijn%20eigen%20website%20verbeteren%3F"
+   },
+   "improve_this_score": {
+      "message": "Hoe kan de website-eigenaar deze score verbeteren ?"
+   },
+   "in_belgium": {
+      "message": "in België ?"
+   },
+   "link_report_malicious_content": {
+      "message": "Verdachte website melden Mail naar : verdacht@safeonweb.be"
+   },
+   "link_report_url": {
+      "message": "mailto:verdacht@safeonweb.be?subject=Suspicious%20website%20reporting&body=Ik%20wil%20het%20domein%20graag%20rapporteren%20"
+   },
+   "link_validate_your_domain": {
+      "message": "Registreer je domein"
+   },
+   "logo_img_alt": {
+      "message": "Safeonweb.be"
+   },
+   "logo_link_url": {
+      "message": "https://www.safeonweb.be/nl/safeonweb-browser-extension"
+   },
+   "main_error": {
+      "message": "Sorry, er is een fout opgetreden..."
+   },
+   "main_error_reason": {
+      "message": "Zorg ervoor dat u zich op een website bevindt en probeer het opnieuw."
+   },
+   "main_title_1": {
+      "message": "Safe"
+   },
+   "main_title_2": {
+      "message": "on"
+   },
+   "main_title_3": {
+      "message": "web"
+   },
+   "main_title_4": {
+      "message": ".be"
+   },
+   "maintenance_text": {
+      "message": "We werken actief aan de server en zullen deze zo snel mogelijk weer operationeel krijgen. Kom alstublieft later terug."
+   },
+   "maintenance_title": {
+      "message": "Onze server is in onderhoud..."
+   },
+   "more_info": {
+      "message": "Meer informatie"
+   },
+   "more_info_link_url": {
+      "message": "https://www.safeonweb.be/nl/safeonweb-browser-extension"
+   },
+   "no_host_info_description": {
+      "message": "Dit kan zijn omdat het een intranet is."
+   },
+   "no_host_info_title": {
+      "message": "We konden geen domeininformatie ophalen."
+   },
+   "register_my_organisation_link_url": {
+      "message": "https://atwork.safeonweb.be/nl/register-my-organisation#:~:text=Connect-,Eerste%20registratie,-Safeonweb%40work%20is"
+   },
+   "text_feedback_label": {
+      "message": "Tekstfeedback in pictogram"
+   },
+   "warning_description": {
+      "message": "Het doel van de SafeonWeb -browserextensie is alleen om informatie te verstrekken over de verificatie van de organisatie en / of de eigenaar van de website, niet de inhoud ervan. Zelfs met een hoge betrouwbaarheidsindex kan een website altijd worden gehackt en kwaadaardige software bevatten. Wees voorzichtig met wat je deelt en ondertekent.  Onderteken nooit een transactie (via itsme® of jouw kaartlezer) op verzoek van iemand die zich voordoet als “helpdesk” of “bankmedewerker”."
+   },
+   "warning_title": {
+      "message": "Disclaimer:"
+   },
+   "why_zero_description": {
+      "message": "Zelfs als er enkele positieve elementen werden gerapporteerd, is de totaalscore ingesteld op 0 omdat deze schadelijke links werden gerapporteerd op deze website."
+   },
+   "why_zero_tite": {
+      "message": "Waarom heeft deze website deze score ?"
+   }
+}

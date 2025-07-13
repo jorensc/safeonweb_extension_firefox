@@ -1,0 +1,134 @@
+{
+   "accessibility_text": {
+      "message": "Enable text information in addition to the color of the security level icon for any accessibility issues."
+   },
+   "accessibility_title": {
+      "message": "Accessibility"
+   },
+   "are_you_owner_website": {
+      "message": "Are you the owner of"
+   },
+   "button_back": {
+      "message": "Back"
+   },
+   "button_view_details": {
+      "message": "View details"
+   },
+   "cache_clear_button": {
+      "message": "Clear"
+   },
+   "cache_clear_text": {
+      "message": "Click this button to delete the Extension's Local Cache."
+   },
+   "cache_clear_title": {
+      "message": "Empty Local Cache"
+   },
+   "cannot_fetch_from_ip": {
+      "message": "This extension does not handle IP addresses."
+   },
+   "cannot_fetch_non_http": {
+      "message": "Cannot fetch from non HTTP url : "
+   },
+   "cannot_parse_tab_url": {
+      "message": "Could not parse the current tab URL."
+   },
+   "change_language_title": {
+      "message": "Change language"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "extension_description": {
+      "message": "Website owner validation status and related score from the CCB."
+   },
+   "extension_name": {
+      "message": "Safeonweb Browser Extension"
+   },
+   "fetching_data": {
+      "message": "Analysing the website..."
+   },
+   "footer_copyright": {
+      "message": "Safeonweb extension by the"
+   },
+   "footer_link_title": {
+      "message": "Centre for Cybersecurity Belgium (CCB)"
+   },
+   "improve_score_faq_link_url": {
+      "message": "https://atwork.safeonweb.be/protect-my-organisation/safeonweb-browser-extension#:~:text=How%20do%20I%20improve%20the%20score%20of%20the%20website%20of%20my%20own%20organisation%3F"
+   },
+   "improve_this_score": {
+      "message": "How can the website owner improve this score ?"
+   },
+   "in_belgium": {
+      "message": "in Belgium ?"
+   },
+   "link_report_malicious_content": {
+      "message": "You can report suspicious websites to: suspicious@safeonweb.be"
+   },
+   "link_report_url": {
+      "message": "mailto:suspicious@safeonweb.be?subject=Suspicious%20website%20reporting&body=I%20would%20like%20to%20report%20the%20domain%20"
+   },
+   "link_validate_your_domain": {
+      "message": "Register your domain here"
+   },
+   "logo_img_alt": {
+      "message": "Safeonweb.be"
+   },
+   "logo_link_url": {
+      "message": "https://www.safeonweb.be/en/safeonweb-browser-extension"
+   },
+   "main_error": {
+      "message": "Sorry, an error occured..."
+   },
+   "main_error_reason": {
+      "message": "Make sure you are on a website and try again."
+   },
+   "main_title_1": {
+      "message": "Safe"
+   },
+   "main_title_2": {
+      "message": "on"
+   },
+   "main_title_3": {
+      "message": "web"
+   },
+   "main_title_4": {
+      "message": ".be"
+   },
+   "maintenance_text": {
+      "message": "We are actively working on the server and will get it back up as soon as possible. Please come back later."
+   },
+   "maintenance_title": {
+      "message": "Our server is under maintenance..."
+   },
+   "more_info": {
+      "message": "More info"
+   },
+   "more_info_link_url": {
+      "message": "https://www.safeonweb.be/en/safeonweb-browser-extension"
+   },
+   "no_host_info_description": {
+      "message": "This might be because it is an Intranet."
+   },
+   "no_host_info_title": {
+      "message": "We could not fetch any domain information."
+   },
+   "register_my_organisation_link_url": {
+      "message": "https://atwork.safeonweb.be/register-my-organisation#:~:text=Connect-,First%20registration,-Safeonweb%40work%20is"
+   },
+   "text_feedback_label": {
+      "message": "Text feedback in icon"
+   },
+   "warning_description": {
+      "message": "The aim of the Safeonweb Browser Extension is only to provide information regarding the verification of the website’s organisation and / or its owner, not its content. Even with a high trust rating regarding its ownership, a website can always be hacked and contain malicious software. Be mindful of what you share and sign. Never sign a transaction (via itsme® or your card reader) at the request of someone posing as a \"helpdesk\" or a \"bank employee\"."
+   },
+   "warning_title": {
+      "message": "Disclaimer:"
+   },
+   "why_zero_description": {
+      "message": "Even if some positive elements were found, the total score is set to 0 because this website has been reported as malicious."
+   },
+   "why_zero_tite": {
+      "message": "Why does this website have this score?"
+   }
+}
